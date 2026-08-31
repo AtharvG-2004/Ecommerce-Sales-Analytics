@@ -4,7 +4,7 @@ This project contains a validated Olist sales, customer, product, and delivery a
 
 ## Dashboard
 
-🚀 **[View the Live Streamlit Dashboard](ecommerce-sales-analytics ∙ main ∙ streamlit_app/app.py)**
+🚀 [View the Live Streamlit Dashboard](https://fq92de8blvafjsd8ljsv3n.streamlit.app/)
 
 ### Run Locally
 
@@ -12,6 +12,7 @@ Launch the Streamlit dashboard from the project root:
 
 ```bash
 streamlit run streamlit_app/app.py
+```
 
 ## Pages
 
@@ -40,4 +41,6 @@ The dashboard includes shared filters for:
 
 Install dependencies with:
 
-pip install -r requirements.txt
+```bash
+python -m pip install -r requirements.txt
+```
