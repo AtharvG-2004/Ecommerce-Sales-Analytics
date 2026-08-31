@@ -4,8 +4,13 @@ This project contains a validated Olist sales, customer, product, and delivery a
 
 ## Dashboard
 
+🚀 **[View the Live Streamlit Dashboard](ecommerce-sales-analytics ∙ main ∙ streamlit_app/app.py)**
+
+### Run Locally
+
 Launch the Streamlit dashboard from the project root:
 
+```bash
 streamlit run streamlit_app/app.py
 
 ## Pages
