@@ -5,4 +5,5 @@ streamlit>=1.30
 plotly>=5.18
 matplotlib>=3.7
 seaborn>=0.13
+statsmodels>=0.14
 jupyter>=1.0
